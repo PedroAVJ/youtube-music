@@ -1,0 +1,25 @@
+{
+  "name": "youtube-music",
+  "version": "0.1.12",
+  "description": "Play and curate YouTube Music: throwaway session queues, a validated focus pool, and macOS Background Sounds control.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/youtube-music",
+  "repository": "https://github.com/PedroAVJ/youtube-music",
+  "license": "MIT",
+  "keywords": [
+    "youtube-music",
+    "music",
+    "playback",
+    "focus",
+    "background-sounds",
+    "playlists",
+    "ytx"
+  ],
+  "skills": "./skills/",
+  "dependencies": [
+    "youtube@package-manager"
+  ]
+}
