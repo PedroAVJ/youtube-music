@@ -1,6 +1,6 @@
 {
   "name": "youtube-music",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Play and curate YouTube Music: throwaway session queues, a validated focus pool, and macOS Background Sounds control.",
   "author": {
     "name": "PedroAVJ",
@@ -24,7 +24,7 @@
     "shortDescription": "Play YouTube Music and compose focus soundscapes",
     "longDescription": "Play and curate the listening surface over the shared YouTube library. Builds throwaway session queues that cost zero API quota, curates a validated focus pool through an audition-then-promote funnel, and controls the macOS Background Sounds layer (rain and friends) so a work-session soundscape can be set in one step. Uses the ytx CLI for library writes.",
     "developerName": "PedroAVJ",
-    "category": "Media",
+    "category": "Entertainment",
     "capabilities": [
       "Interactive",
       "Read",

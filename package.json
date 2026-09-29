@@ -1,6 +1,6 @@
 {
   "name": "@pedroavj/youtube-music",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "private": true,
   "description": "Play and curate YouTube Music: throwaway session queues, a validated focus pool, and macOS Background Sounds control.",
   "license": "MIT",

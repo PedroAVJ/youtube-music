@@ -7,7 +7,7 @@ import test from "node:test";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const expected = {
   "name": "youtube-music",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "url": "https://github.com/PedroAVJ/youtube-music",
   "dependencies": [
     "youtube@package-manager"
